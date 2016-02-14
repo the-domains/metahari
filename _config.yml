@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.5510638
+  lightness: 0.07659575
+  brandStrength: 1
+  brandColors:
+    - '#030304'
+    - '#EAE1BC'
+    - '#9A6454'
+    - '#39D8FC'
+    - '#BDAB78'
+  rhythmicContrast: 0.9964056
+typography_spectrum: 0.5553191
+name: Metahari
