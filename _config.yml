@@ -1,7 +1,7 @@
 name: Metahari
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0
+layout_spectrum: 0.35922
+typography_spectrum: 0.7018
 collections:
   - index:
       path: /
@@ -35,7 +35,7 @@ color:
     - '#2E7990'
     - '#E9EAE9'
   brandStrength: 1
-  lightness: 0.5
-  saturation: 1
-  rhythmicContrast: 0
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
