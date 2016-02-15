@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Metahari]]></title>
-        <description><![CDATA[Metahari]]></description>
+        <title><![CDATA[Daisy, Daisy, Give me your answer do!]]></title>
+        <description><![CDATA[Daisy, Daisy, Give me your answer do!]]></description>
         <link>https://thegrid.ai/metahari/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 16:54:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Feb 2016 18:08:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/metahari/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Packages</p>]]></description>
-            <link>https://thegrid.ai/metahari/packages/index.html</link>
-            <guid isPermaLink="false">97f0924d-0eec-4b98-a228-b0a69998d3ec</guid>
-            <pubDate>Mon, 15 Feb 2016 16:53:46 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[3 Ukuleles. #madukuladies]]></title>
             <description><![CDATA[<article><h1>3 Ukuleles. #madukuladies</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b70423bd5765aeb1a0cd6fdd1b90c51937be86ea.jpg"></article>]]></description>
