@@ -14,6 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: 'Daisy, Daisy, Give me your answer do!'
 cta:
   domain: null
   bucket: null
