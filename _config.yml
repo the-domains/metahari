@@ -1,14 +1,26 @@
-layout_spectrum: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.5510638
-  lightness: 0.07659575
   brandStrength: 1
+  lightness: 0.07659575
   brandColors:
-    - '#030304'
-    - '#EAE1BC'
-    - '#9A6454'
-    - '#39D8FC'
-    - '#BDAB78'
+    - '#1E305B'
+    - '#020203'
+    - '#D990C5'
+    - '#2E7990'
+    - '#E9EAE9'
   rhythmicContrast: 0.9964056
 typography_spectrum: 0.5553191
+layout_spectrum: 1
 name: Metahari
