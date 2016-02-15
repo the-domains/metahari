@@ -1,3 +1,7 @@
+name: Metahari
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.5553191
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5510638
-  brandStrength: 1
-  lightness: 0.07659575
   brandColors:
     - '#1E305B'
     - '#020203'
     - '#D990C5'
     - '#2E7990'
     - '#E9EAE9'
-  rhythmicContrast: 0.9964056
-typography_spectrum: 0.5553191
-layout_spectrum: 1
-name: Metahari
+  brandStrength: 1
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 0.25
+purpose: []
