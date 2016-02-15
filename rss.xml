@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Metahari]]></title>
         <description><![CDATA[Metahari]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/metahari/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 16:26:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 15 Feb 2016 16:30:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/metahari/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>instagram.com/metahari/</p>]]></description>
+            <link>https://thegrid.ai/metahari/a10de4d9-ae38-42d0-b16e-2e127cd3fb8c/index.html</link>
+            <guid isPermaLink="false">a10de4d9-ae38-42d0-b16e-2e127cd3fb8c</guid>
+            <pubDate>Mon, 15 Feb 2016 16:30:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tribute Waters Graphic Novel - Out now!]]></title>
-            <description><![CDATA[<article><h1>Tribute Waters Graphic Novel - Out now!</h1><p>My first graphic novel is now available for purchase! This volume collects the first three issues of Tribute Waters. It also has some guest art from some amazing artists and a whole bunch of behind the scenes commentary.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db1cbb2d86a964aca0ec063bace356c039438f82.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Tribute Waters Graphic Novel - Out now!</h1><p>My first graphic novel is now available for purchase! This volume collects the first three issues of Tribute Waters. It also has some guest art from some amazing artists and a whole bunch of behind the scenes commentary.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/19cfb65b1c7c700648de1f097564039cf1cb749a.jpg"></article>]]></description>
             <link>http://www.tributewaters.com/tribute-waters-volume-1-available-now/</link>
             <guid isPermaLink="false">7713b6e8-73f9-4f84-9456-e6ccf4b08048</guid>
             <pubDate>Mon, 15 Feb 2016 16:26:19 GMT</pubDate>
