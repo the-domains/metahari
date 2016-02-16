@@ -34,7 +34,7 @@ color:
     - '#D990C5'
     - '#2E7990'
     - '#E9EAE9'
-  brandStrength: 1
+  brandStrength: 0.6875
   lightness: 0
   saturation: 0
   rhythmicContrast: 1
