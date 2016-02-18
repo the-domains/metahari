@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Stacie
-    url: 'http://www.staciearellano.com/author/stacie/'
-    avatar: {}
-related: []
-publisher:
-  url: 'http://www.staciearellano.com'
-  name: Stacie Arellano
-  favicon: null
-  domain: www.staciearellano.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.staciearellano.com/ios-project-log-3/'
+inLanguage: en
+starred: false
 keywords:
   - animate
   - sounds
@@ -21,17 +17,23 @@ keywords:
   - screen
   - requesting
 description: 'Last week the local superhero and I met with some of the designers to pitch our personal projects and explain the group project some more. The placid dinosaur was on a business trip, as dinos do, but checked in via our team Slack.'
-inLanguage: en
+datePublished: '2016-02-18T17:05:09.483Z'
+dateModified: '2016-02-18T17:03:30.436Z'
+author:
+  - name: Stacie
+    url: 'http://www.staciearellano.com/author/stacie/'
+    avatar: {}
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.staciearellano.com/ios-project-log-3/'
 title: iOS Project Log 3
-datePublished: '2016-02-18T17:03:22.247Z'
-dateModified: '2016-02-18T17:01:54.285Z'
 sourcePath: _posts/2016-02-18-ios-project-log-3.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Stacie Arellano
+  domain: www.staciearellano.com
+  url: 'http://www.staciearellano.com'
+  favicon: null
 _context: 'http://schema.org'
 _type: MediaObject
 
