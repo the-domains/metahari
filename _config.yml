@@ -1,41 +1,41 @@
-name: Metahari
-favicon: null
-layout_spectrum: 0.43432
-typography_spectrum: 0.7018
+title: Prime Avatar of Avataria
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: Prime Avatar of Avataria
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
 color:
+  saturation: 0.5191489
+  brandStrength: 0.6875
+  lightness: 1
   brandColors:
     - '#1E305B'
     - '#020203'
     - '#D990C5'
     - '#2E7990'
     - '#E9EAE9'
-  brandStrength: 0.6875
-  lightness: 0
-  saturation: 0
   rhythmicContrast: 1
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Metahari
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.7018
+layout_spectrum: 0.43432
