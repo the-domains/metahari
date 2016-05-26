@@ -4,8 +4,15 @@
         <description><![CDATA[Prime Avatar of Avataria]]></description>
         <link>https://thegrid.ai/metahari/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 26 May 2016 21:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2016 21:17:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/metahari/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[iOS Project Log 8]]></title>
+            <description><![CDATA[<article><h1>iOS Project Log 8</h1><p>Oy, I picked up some bug at the conference and was pretty much too sick to do any substantial development. Swift version updated, so I did start going through and removing the C style if/then loops, because I'm getting warnings now about their deprecation soon.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8ef7256d11f594d6c9a95d60e625db03ebebad9a.jpg"></article>]]></description>
+            <link>http://www.staciearellano.com/ios-project-log-8/</link>
+            <guid isPermaLink="false">ea1fdb30-6e1a-4a9c-b44e-55e8645121b2</guid>
+            <pubDate>Thu, 26 May 2016 21:16:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[iOS Project Log 10]]></title>
             <description><![CDATA[<article><h1>iOS Project Log 10</h1><p>Ok, things are speeding up, Not sure If I mentioned that I finished the tutorial a few weeks back. I've since added code that add sounds for each direction swiped. The program also will play those sounds if your hero hits a wall, telling you which way you can go.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/07579ad6fb93bdca153b46b2fc2068a9040da68c.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.instagram.com/p/BBsvtwkKgtl/?taken-by=metahari</link>
             <guid isPermaLink="false">243058cd-9732-4dd7-acb4-f6727cb1132a</guid>
             <pubDate>Mon, 15 Feb 2016 16:44:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Merry Christmas Eve! #holidays]]></title>
-            <description><![CDATA[<article><h1>Merry Christmas Eve! #holidays</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6dc129602bf7d1812e0a5b81c04238513267561f.jpg"></article>]]></description>
-            <link>https://www.instagram.com/p/_rvWFJKgoL/?taken-by=metahari</link>
-            <guid isPermaLink="false">6483ae88-73c3-457a-b409-287ee33c4a33</guid>
-            <pubDate>Mon, 15 Feb 2016 16:43:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
