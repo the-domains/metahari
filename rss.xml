@@ -4,8 +4,15 @@
         <description><![CDATA[Prime Avatar of Avataria]]></description>
         <link>https://thegrid.ai/metahari/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 26 May 2016 21:17:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2016 21:17:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/metahari/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[iOS Project Log 10]]></title>
+            <description><![CDATA[<article><h1>iOS Project Log 10</h1><p>Ok, things are speeding up, Not sure If I mentioned that I finished the tutorial a few weeks back. I've since added code that add sounds for each direction swiped. The program also will play those sounds if your hero hits a wall, telling you which way you can go.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/07579ad6fb93bdca153b46b2fc2068a9040da68c.png"></article>]]></description>
+            <link>http://www.staciearellano.com/ios-project-log-10/</link>
+            <guid isPermaLink="false">b9f1960c-e38d-491c-8606-41342db4fda1</guid>
+            <pubDate>Thu, 26 May 2016 21:16:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Brief Intro to Tile Maps, Spritesheets and Atlases]]></title>
             <description><![CDATA[<article><h1>Brief Intro to Tile Maps, Spritesheets and Atlases</h1><p>As part of our class this semester, we each gave a brief talk about an iOS related topic. Teacher Eric recorded the presentation, and gave us the videos. There was no expectation of sharing the talk with anyone else. However, YouTube makes it far too easy to share things, so...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3b367f64266b2de86353e5155a26db54898d1b76.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.instagram.com/p/_rvWFJKgoL/?taken-by=metahari</link>
             <guid isPermaLink="false">6483ae88-73c3-457a-b409-287ee33c4a33</guid>
             <pubDate>Mon, 15 Feb 2016 16:43:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New #music #thedailyukulelebook #ukelele , recommended by @gentlebronto #practice]]></title>
-            <description><![CDATA[<article><h1>New #music #thedailyukulelebook #ukelele , recommended by @gentlebronto #practice</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/97ddfd38f72c3ad79ede414e0006321dc397eea3.jpg"></article>]]></description>
-            <link>https://www.instagram.com/p/BBplI3zKgoj/?taken-by=metahari</link>
-            <guid isPermaLink="false">5b877f7c-977a-4628-b245-fdcf4c58adb8</guid>
-            <pubDate>Mon, 15 Feb 2016 16:40:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
