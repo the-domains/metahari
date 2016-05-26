@@ -7,6 +7,13 @@
         <lastBuildDate>Thu, 26 May 2016 21:17:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/metahari/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[iOS Project Log 6]]></title>
+            <description><![CDATA[<article><h1>iOS Project Log 6</h1><p>Artists are out on Spring Break. I did find some info on Ukrainian Castles. Hope that can inspire us. I made some headway on sound design, deciding to focus on folk music. Found an adorable lullaby about a sassy grey cat - and a YouTube video where I could hear it sung.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c7284b375781d0cd804f04431c8f2f43160915f7.png"></article>]]></description>
+            <link>http://www.staciearellano.com/ios-project-log-6/</link>
+            <guid isPermaLink="false">ae5c116d-69cc-41a6-b1fd-0bf6119c0426</guid>
+            <pubDate>Thu, 26 May 2016 21:16:54 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[iOS Project Log 7]]></title>
             <description><![CDATA[<article><h1>iOS Project Log 7</h1><p>March 25th-26th, 2016 Not much happened project-wise, due to my attendance at CocoaConf Chicago. I did meet a lot of fantastic people, and attended some very though provoking sessions on Swift. With time I hope I'll be able to unwrap all the knowledge that I downloaded straight into my brain.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3576e295f63d2938cbb24b0c8c3ab7f095f76533.png"></article>]]></description>
             <link>http://www.staciearellano.com/ios-project-log-7/</link>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=tUFedtI697U</link>
             <guid isPermaLink="false">ad33469b-bde2-4aa7-bc8b-5defd12303a7</guid>
             <pubDate>Mon, 15 Feb 2016 21:16:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[iOS Project Log 1]]></title>
-            <description><![CDATA[<article><h1>iOS Project Log 1</h1><p>This semester, Spring 2016, I am taking my 3rd class in iOS/Swift programming. We are required to work on 2 major projects. The first is a group project, which I am working on with an awesome placid dinosaur, and the second is a personal project.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/00183979f1a1e018bfd4530aebbe47b57c61f5bc.jpg"></article>]]></description>
-            <link>http://www.staciearellano.com/ios-project-log-1/</link>
-            <guid isPermaLink="false">3a77a857-d7a2-42d8-8e7d-95e4f371ab2c</guid>
-            <pubDate>Mon, 15 Feb 2016 18:31:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
