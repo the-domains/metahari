@@ -4,8 +4,29 @@
         <description><![CDATA[Prime Avatar of Avataria]]></description>
         <link>https://thegrid.ai/metahari/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 26 May 2016 21:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2016 21:17:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/metahari/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[iOS Project Log 5]]></title>
+            <description><![CDATA[<article><h1>iOS Project Log 5</h1><p>Lots of things happened this week. The artists are buzzing about with some on the general look and feel and our heroine design is also in the works. We're trying to use inVision for collaboration, but it's new to all of us, so we're learning all together.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/514ed45f4456b65c39571fd34a151c584416d92c.png"></article>]]></description>
+            <link>http://www.staciearellano.com/ios-project-log-5/</link>
+            <guid isPermaLink="false">d649cfda-2927-4840-8b5f-31046ee0c559</guid>
+            <pubDate>Thu, 26 May 2016 21:16:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[iOS Project Log 6]]></title>
+            <description><![CDATA[<article><h1>iOS Project Log 6</h1><p>Artists are out on Spring Break. I did find some info on Ukrainian Castles. Hope that can inspire us. I made some headway on sound design, deciding to focus on folk music. Found an adorable lullaby about a sassy grey cat - and a YouTube video where I could hear it sung.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c7284b375781d0cd804f04431c8f2f43160915f7.png"></article>]]></description>
+            <link>http://www.staciearellano.com/ios-project-log-6/</link>
+            <guid isPermaLink="false">ae5c116d-69cc-41a6-b1fd-0bf6119c0426</guid>
+            <pubDate>Thu, 26 May 2016 21:16:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[iOS Project Log 7]]></title>
+            <description><![CDATA[<article><h1>iOS Project Log 7</h1><p>March 25th-26th, 2016 Not much happened project-wise, due to my attendance at CocoaConf Chicago. I did meet a lot of fantastic people, and attended some very though provoking sessions on Swift. With time I hope I'll be able to unwrap all the knowledge that I downloaded straight into my brain.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3576e295f63d2938cbb24b0c8c3ab7f095f76533.png"></article>]]></description>
+            <link>http://www.staciearellano.com/ios-project-log-7/</link>
+            <guid isPermaLink="false">9fbe000f-bee3-474a-aba0-608ca5949bff</guid>
+            <pubDate>Thu, 26 May 2016 21:16:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[iOS Project Log 4]]></title>
             <description><![CDATA[<article><h1>iOS Project Log 4</h1><p>Climb the tower, pass the tollways using your ears and your wits, but don't believe your eyes! My project now has TWO artists! /kermitarms. That means our project is fully staffed and we can forge on! The theme and design of the game is taking shape, at least in my mind.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/298a48ea0c11ebca6cc96eea6a0874de6848e306.png"></article>]]></description>
@@ -54,27 +75,6 @@
             <link>http://www.staciearellano.com/ios-project-log-3/</link>
             <guid isPermaLink="false">696ae456-956e-4272-8b37-5899a942902a</guid>
             <pubDate>Thu, 18 Feb 2016 17:05:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Swift Programming Language Tutorial Part 6 (Closures)]]></title>
-            <description><![CDATA[<article><h1>Swift Programming Language Tutorial Part 6 (Closures)</h1><p>Watch the followup on Closures after this: https://www.youtube.com/watch?v=3Ob6YG5FRHE @SkipAllMighty Best viewed in 4k! Leave comments on any errata Covering: Closures 0:00 Special Thanks to Logan @ loganwright.io</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fcafee6c5da47a6d9c841bf7b648906004cb8013.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=tUFedtI697U</link>
-            <guid isPermaLink="false">ad33469b-bde2-4aa7-bc8b-5defd12303a7</guid>
-            <pubDate>Mon, 15 Feb 2016 21:16:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[iOS Project Log 1]]></title>
-            <description><![CDATA[<article><h1>iOS Project Log 1</h1><p>This semester, Spring 2016, I am taking my 3rd class in iOS/Swift programming. We are required to work on 2 major projects. The first is a group project, which I am working on with an awesome placid dinosaur, and the second is a personal project.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/00183979f1a1e018bfd4530aebbe47b57c61f5bc.jpg"></article>]]></description>
-            <link>http://www.staciearellano.com/ios-project-log-1/</link>
-            <guid isPermaLink="false">3a77a857-d7a2-42d8-8e7d-95e4f371ab2c</guid>
-            <pubDate>Mon, 15 Feb 2016 18:31:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bad Node, Bad Node, whatcha gonna do?]]></title>
-            <description><![CDATA[<article><h1>Bad Node, Bad Node, whatcha gonna do?</h1><p>I recently switched a site search from using external Google CSE search to using the internal Drupal Core search. This was fairly inconsequential. I switched to Node search under Config -> Search and Metadata, swapped the CSE block out of my sidebar in Content ->Structure, made a few theme CSS changes to match and I should have been done.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6775644edf10075b41fb84e0f1de6c0d1d3bcf18.jpg"></article>]]></description>
-            <link>http://www.staciearellano.com/bad-node-bad-node-whatcha-gonna-do/</link>
-            <guid isPermaLink="false">d8beae15-861e-4158-a676-8ff02022d97b</guid>
-            <pubDate>Mon, 15 Feb 2016 18:21:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
