@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-27T19:50:30.520Z'
+datePublished: '2016-05-27T19:50:44.700Z'
 sourcePath: _posts/2016-05-26-ios-project-log-11.md
 inFeed: true
 isBasedOnUrl: 'http://www.staciearellano.com/ios-project-log-11/'
@@ -21,7 +21,7 @@ author:
   - name: Stacie
     url: 'http://www.staciearellano.com/author/stacie/'
     avatar: {}
-dateModified: '2016-05-27T19:50:30.238Z'
+dateModified: '2016-05-27T19:50:44.413Z'
 title: Design
 app_links: []
 publisher:
@@ -32,7 +32,7 @@ publisher:
 description: iOS Project Log 11
 inLanguage: en
 inNav: false
-starred: false
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
