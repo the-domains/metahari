@@ -4,7 +4,7 @@
         <description><![CDATA[Prime Avatar of Avataria]]></description>
         <link>https://thegrid.ai/metahari/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 09 Jun 2016 21:49:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2016 21:49:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/metahari/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Design]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.staciearellano.com/ios-project-log-11/</link>
             <guid isPermaLink="false">1ace5614-3501-4baa-8e64-cbebade16296</guid>
             <pubDate>Fri, 27 May 2016 19:50:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stacie (@metahari) * Instagram photos and videos]]></title>
+            <description><![CDATA[<article><h1>Stacie (@metahari) * Instagram photos and videos</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/025992e894338ff88423098cb6829b5141b95d8b.jpg"></article>]]></description>
+            <link>https://www.instagram.com/metahari/</link>
+            <guid isPermaLink="false">84e534d7-ba69-499a-adf4-51c09ba68a1a</guid>
+            <pubDate>Thu, 09 Jun 2016 21:49:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stacie (@metahari) * Instagram photos and videos]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Brief Intro to Tile Maps, Spritesheets and Atlases</h1><p>As part of our class this semester, we each gave a brief talk about an iOS related topic. Teacher Eric recorded the presentation, and gave us the videos. There was no expectation of sharing the talk with anyone else. However, YouTube makes it far too easy to share things, so...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3b367f64266b2de86353e5155a26db54898d1b76.jpg"></article>]]></description>
             <link>http://www.staciearellano.com/brief-intro-to-tile-maps-spritesheets-and-atlases/</link>
             <guid isPermaLink="false">5bb0dc2d-b206-4206-99f2-aa25e5ac4d80</guid>
-            <pubDate>Thu, 26 May 2016 21:16:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[iOS Project Log 9]]></title>
-            <description><![CDATA[<article><h1>iOS Project Log 9</h1><p>Did a lot of research on how to mask out my illusion layer for the game. Still coming up with questionmarks. Researched a way to quickly throw a repeating texture at things. Not something you get for free with SpriteKit. I've been advised to look at Scenekit for a solution.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8df1090bbc4510402f487086e9690a3d1dd458a0.png"></article>]]></description>
-            <link>http://www.staciearellano.com/ios-project-log-9/</link>
-            <guid isPermaLink="false">4ec1eab3-ba5c-44e7-99d8-a0a022c86f29</guid>
             <pubDate>Thu, 26 May 2016 21:16:53 GMT</pubDate>
         </item>
     </channel>
