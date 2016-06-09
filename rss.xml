@@ -4,7 +4,7 @@
         <description><![CDATA[Prime Avatar of Avataria]]></description>
         <link>https://thegrid.ai/metahari/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 19:50:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2016 21:49:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/metahari/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Design]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.staciearellano.com/ios-project-log-11/</link>
             <guid isPermaLink="false">1ace5614-3501-4baa-8e64-cbebade16296</guid>
             <pubDate>Fri, 27 May 2016 19:50:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stacie (@metahari) * Instagram photos and videos]]></title>
+            <description><![CDATA[<article><h1>Stacie (@metahari) * Instagram photos and videos</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/025992e894338ff88423098cb6829b5141b95d8b.jpg"></article>]]></description>
+            <link>https://www.instagram.com/metahari/</link>
+            <guid isPermaLink="false">f0c86b49-5d9a-46b2-9b9f-ce83f467b2a5</guid>
+            <pubDate>Thu, 09 Jun 2016 21:49:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[iOS Project Log 5]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.staciearellano.com/ios-project-log-9/</link>
             <guid isPermaLink="false">4ec1eab3-ba5c-44e7-99d8-a0a022c86f29</guid>
             <pubDate>Thu, 26 May 2016 21:16:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jazz collection for streaming]]></title>
-            <description><![CDATA[<article><h1>Jazz collection for streaming</h1><p>650 tapes · 1,000 hours · 1,378 WAV files · 637 GB · 691 JPEG scans of cassette liner cards & literature. Meticulously Collected, Compiled, and Narrated by David W. Niven, 1930-1993. Generously Donated by David W. Niven to the Foxborough High School Jazz Program, Stephen C. Massey, Director,...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cbc3d337853f2f7c273eaefbd757757dfa2c0ca9.jpg"></article>]]></description>
-            <link>https://thegrid.ai/metahari/jazz-collection-for-streaming/index.html</link>
-            <guid isPermaLink="false">df84f39b-fc76-4304-b699-d7899adf0ae1</guid>
-            <pubDate>Sun, 13 Mar 2016 15:41:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
