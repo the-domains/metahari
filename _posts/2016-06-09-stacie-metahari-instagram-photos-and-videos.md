@@ -25,8 +25,8 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/metahari/'
 title: Stacie (@metahari) * Instagram photos and videos
-datePublished: '2016-06-09T21:49:03.627Z'
-dateModified: '2016-06-09T21:48:44.721Z'
+datePublished: '2016-06-09T21:49:47.465Z'
+dateModified: '2016-06-09T21:49:25.909Z'
 description: ''
 starred: false
 sourcePath: _posts/2016-06-09-stacie-metahari-instagram-photos-and-videos.md
