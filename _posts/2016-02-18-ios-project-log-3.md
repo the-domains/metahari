@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.staciearellano.com/ios-project-log-3/'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - animate
   - sounds
@@ -16,9 +16,13 @@ keywords:
   - slack
   - screen
   - requesting
-description: 'Last week the local superhero and I met with some of the designers to pitch our personal projects and explain the group project some more. The placid dinosaur was on a business trip, as dinos do, but checked in via our team Slack.'
-datePublished: '2016-02-18T17:05:09.483Z'
-dateModified: '2016-02-18T17:03:30.436Z'
+description: >-
+  Last week the local superhero and I met with some of the designers to pitch
+  our personal projects and explain the group project some more. The placid
+  dinosaur was on a business trip, as dinos do, but checked in via our team
+  Slack.
+datePublished: '2016-09-01T23:04:36.039Z'
+dateModified: '2016-09-01T23:04:35.674Z'
 author:
   - name: Stacie
     url: 'http://www.staciearellano.com/author/stacie/'
@@ -27,7 +31,6 @@ related: []
 app_links: []
 title: iOS Project Log 3
 sourcePath: _posts/2016-02-18-ios-project-log-3.md
-published: true
 authors: []
 publisher:
   name: Stacie Arellano
