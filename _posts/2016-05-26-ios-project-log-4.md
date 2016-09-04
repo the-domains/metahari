@@ -20,15 +20,19 @@ keywords:
   - map
   - designs
   - debugging
-description: "Climb the tower, pass the tollways using your ears and your wits, but don't believe your eyes! My project now has TWO artists! /kermitarms. That means our project is fully staffed and we can forge on! The theme and design of the game is taking shape, at least in my mind."
+description: >-
+  Climb the tower, pass the tollways using your ears and your wits, but don't
+  believe your eyes! My project now has TWO artists! /kermitarms. That means our
+  project is fully staffed and we can forge on! The theme and design of the game
+  is taking shape, at least in my mind.
 inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.staciearellano.com/ios-project-log-4/'
 title: iOS Project Log 4
-datePublished: '2016-05-26T21:16:54.473Z'
-dateModified: '2016-05-26T21:14:14.308Z'
-starred: false
+datePublished: '2016-09-01T23:04:49.200Z'
+dateModified: '2016-09-01T23:04:48.794Z'
 sourcePath: _posts/2016-05-26-ios-project-log-4.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
