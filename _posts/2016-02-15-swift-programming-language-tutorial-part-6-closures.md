@@ -10,14 +10,18 @@ publisher:
   favicon: 'https://www.youtube.com/favicon.ico'
   domain: www.youtube.com
 keywords: []
-description: 'Watch the followup on Closures after this: https://www.youtube.com/watch?v=3Ob6YG5FRHE @SkipAllMighty Best viewed in 4k! Leave comments on any errata Covering: Closures 0:00 Special Thanks to Logan @ loganwright.io'
+description: >-
+  Watch the followup on Closures after this:
+  https://www.youtube.com/watch?v=3Ob6YG5FRHE @SkipAllMighty Best viewed in 4k!
+  Leave comments on any errata Covering: Closures 0:00 Special Thanks to Logan @
+  loganwright.io
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/watch?v=tUFedtI697U'
 title: Swift Programming Language Tutorial Part 6 (Closures)
-datePublished: '2016-02-15T21:16:01.723Z'
-dateModified: '2016-02-15T21:04:52.300Z'
+datePublished: '2016-09-01T23:04:36.048Z'
+dateModified: '2016-09-01T23:04:35.674Z'
 sourcePath: _posts/2016-02-15-swift-programming-language-tutorial-part-6-closures.md
-published: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
