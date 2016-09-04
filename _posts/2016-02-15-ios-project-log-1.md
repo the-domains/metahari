@@ -20,15 +20,19 @@ keywords:
   - papa
   - https
   - ios
-description: 'This semester, Spring 2016, I am taking my 3rd class in iOS/Swift programming. We are required to work on 2 major projects. The first is a group project, which I am working on with an awesome placid dinosaur, and the second is a personal project.'
+description: >-
+  This semester, Spring 2016, I am taking my 3rd class in iOS/Swift programming.
+  We are required to work on 2 major projects. The first is a group project,
+  which I am working on with an awesome placid dinosaur, and the second is a
+  personal project.
 inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.staciearellano.com/ios-project-log-1/'
 title: iOS Project Log 1
-datePublished: '2016-02-15T18:31:17.452Z'
-dateModified: '2016-02-15T18:20:36.532Z'
+datePublished: '2016-09-01T23:04:49.202Z'
+dateModified: '2016-09-01T23:04:48.794Z'
 sourcePath: _posts/2016-02-15-ios-project-log-1.md
-published: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
