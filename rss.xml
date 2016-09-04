@@ -4,8 +4,22 @@
         <description><![CDATA[Prime Avatar of Avataria]]></description>
         <link>https://thegrid.ai/metahari/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 09 Jun 2016 21:51:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 23:04:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/metahari/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[iOS Project Log 9]]></title>
+            <description><![CDATA[<article><h1>iOS Project Log 9</h1><p>Did a lot of research on how to mask out my illusion layer for the game. Still coming up with questionmarks. Researched a way to quickly throw a repeating texture at things. Not something you get for free with SpriteKit. I've been advised to look at Scenekit for a solution.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8df1090bbc4510402f487086e9690a3d1dd458a0.png"></article>]]></description>
+            <link>http://www.staciearellano.com/ios-project-log-9/</link>
+            <guid isPermaLink="false">4ec1eab3-ba5c-44e7-99d8-a0a022c86f29</guid>
+            <pubDate>Thu, 01 Sep 2016 23:04:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jazz collection for streaming]]></title>
+            <description><![CDATA[<article><h1>Jazz collection for streaming</h1><p>650 tapes · 1,000 hours · 1,378 WAV files · 637 GB · 691 JPEG scans of cassette liner cards & literature. Meticulously Collected, Compiled, and Narrated by David W. Niven, 1930-1993. Generously Donated by David W. Niven to the Foxborough High School Jazz Program, Stephen C. Massey, Director,...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/304dc6c84cc78a21fe13bd60c9b9ebaad4d2500f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/metahari/jazz-collection-for-streaming/index.html</link>
+            <guid isPermaLink="false">df84f39b-fc76-4304-b699-d7899adf0ae1</guid>
+            <pubDate>Thu, 01 Sep 2016 23:04:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Design]]></title>
             <description><![CDATA[<article><h1>Design</h1><p>iOS Project Log 11</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c5dad5533c78e16faf2e180eeb9b745bf26fad2.jpg"></article>]]></description>
