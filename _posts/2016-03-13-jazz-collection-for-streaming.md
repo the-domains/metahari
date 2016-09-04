@@ -1,14 +1,14 @@
 ---
 description: ''
 author: []
-datePublished: '2016-03-13T15:41:51.488Z'
+datePublished: '2016-09-01T23:04:34.141Z'
 publisher:
   domain: ''
   name: ''
 title: Jazz collection for streaming
-dateModified: '2016-03-13T08:05:28.663Z'
+dateModified: '2016-09-01T23:04:33.540Z'
 sourcePath: _posts/2016-03-13-jazz-collection-for-streaming.md
-published: true
+starred: false
 inFeed: true
 hasPage: true
 inNav: false
