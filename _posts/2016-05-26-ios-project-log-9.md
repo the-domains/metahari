@@ -20,15 +20,19 @@ keywords:
   - sprites
   - basics
   - stubbing
-description: "Did a lot of research on how to mask out my illusion layer for the game. Still coming up with questionmarks. Researched a way to quickly throw a repeating texture at things. Not something you get for free with SpriteKit. I've been advised to look at Scenekit for a solution."
+description: >-
+  Did a lot of research on how to mask out my illusion layer for the game. Still
+  coming up with questionmarks. Researched a way to quickly throw a repeating
+  texture at things. Not something you get for free with SpriteKit. I've been
+  advised to look at Scenekit for a solution.
 inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.staciearellano.com/ios-project-log-9/'
 title: iOS Project Log 9
-datePublished: '2016-05-26T21:16:53.990Z'
-dateModified: '2016-05-26T21:15:27.219Z'
-starred: false
+datePublished: '2016-09-01T23:04:34.118Z'
+dateModified: '2016-09-01T23:04:33.540Z'
 sourcePath: _posts/2016-05-26-ios-project-log-9.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
