@@ -1,7 +1,18 @@
+layout_spectrum: 0.7307221002411097
+typography_spectrum: 0.8599180611781776
+color:
+  brandColors:
+    - '#D8CAA8'
+    - '#5C832F'
+    - '#284907'
+    - '#382513'
+    - '#363942'
+  brandStrength: 0.361330741783604
+  lightness: 0.982670244993642
+  saturation: 0.5676576646510512
+  rhythmicContrast: 0.13453755900263786
 name: Metahari
 favicon: null
-layout_spectrum: 0.25252
-typography_spectrum: 0.59271
 title: Prime Avatar of Avataria
 collections:
   - index:
@@ -27,15 +38,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#1E305B'
-    - '#020203'
-    - '#D990C5'
-    - '#2E7990'
-    - '#E9EAE9'
-  brandStrength: 1
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
 purpose: []
