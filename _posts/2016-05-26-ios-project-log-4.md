@@ -29,9 +29,10 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.staciearellano.com/ios-project-log-4/'
 title: iOS Project Log 4
-datePublished: '2016-09-01T23:04:49.200Z'
-dateModified: '2016-09-01T23:04:48.794Z'
+datePublished: '2016-09-01T23:04:52.503Z'
+dateModified: '2016-09-01T23:04:52.292Z'
 sourcePath: _posts/2016-05-26-ios-project-log-4.md
+via: {}
 starred: false
 inFeed: true
 hasPage: false
