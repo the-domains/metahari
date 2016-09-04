@@ -4,7 +4,7 @@
         <description><![CDATA[Prime Avatar of Avataria]]></description>
         <link>https://thegrid.ai/metahari/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 23:04:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 23:04:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/metahari/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[iOS Project Log 9]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.staciearellano.com/ios-project-log-9/</link>
             <guid isPermaLink="false">4ec1eab3-ba5c-44e7-99d8-a0a022c86f29</guid>
             <pubDate>Thu, 01 Sep 2016 23:04:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Swift Programming Language Tutorial Part 6 (Closures)]]></title>
+            <description><![CDATA[<article><h1>Swift Programming Language Tutorial Part 6 (Closures)</h1><p>Watch the followup on Closures after this: https://www.youtube.com/watch?v=3Ob6YG5FRHE @SkipAllMighty Best viewed in 4k! Leave comments on any errata Covering: Closures 0:00 Special Thanks to Logan @ loganwright.io</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fcafee6c5da47a6d9c841bf7b648906004cb8013.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=tUFedtI697U</link>
+            <guid isPermaLink="false">ad33469b-bde2-4aa7-bc8b-5defd12303a7</guid>
+            <pubDate>Thu, 01 Sep 2016 23:04:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jazz collection for streaming]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.staciearellano.com/ios-project-log-10/</link>
             <guid isPermaLink="false">b9f1960c-e38d-491c-8606-41342db4fda1</guid>
             <pubDate>Thu, 26 May 2016 21:16:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brief Intro to Tile Maps, Spritesheets and Atlases]]></title>
-            <description><![CDATA[<article><h1>Brief Intro to Tile Maps, Spritesheets and Atlases</h1><p>As part of our class this semester, we each gave a brief talk about an iOS related topic. Teacher Eric recorded the presentation, and gave us the videos. There was no expectation of sharing the talk with anyone else. However, YouTube makes it far too easy to share things, so...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3b367f64266b2de86353e5155a26db54898d1b76.jpg"></article>]]></description>
-            <link>http://www.staciearellano.com/brief-intro-to-tile-maps-spritesheets-and-atlases/</link>
-            <guid isPermaLink="false">5bb0dc2d-b206-4206-99f2-aa25e5ac4d80</guid>
-            <pubDate>Thu, 26 May 2016 21:16:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
